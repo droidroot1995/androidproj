@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NeonXO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_player1">1 игрок</string>
+    <string name="title_activity_player_x">playerX</string>
+    <string name="title_activity_player0">player0</string>
+    <string name="title_activity_players">players</string>
+
+</resources>
